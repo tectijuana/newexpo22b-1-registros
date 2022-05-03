@@ -33,8 +33,3 @@ Existen 4 banderas y son las siguientes:
    # Naturaleza de los registros
 ![EjemploRegistros](https://user-images.githubusercontent.com/99301599/166502818-51a3b9f8-842a-46d0-8573-c8be2d85b29c.PNG)
 
- Hay ocho registros de propósito general de 16 bits: AX, BX, CX, DX, BP, SI, DI y SP; y puede colocar cualquier valor en ellos que pueda expresarse en 16 bits o menos.
-
-Cuando Intel expandió la arquitectura x86 a 32 bits en 1986, duplicó el tamaño de los ocho registros y les dio nuevos nombres prefijando una E delante de cada nombre de registro, dando como resultado EAX, EBX, ECX, EDX, EBP, ESI, EDI, y ESP. 
-
- Con x86_64 vino otra duplicación del tamaño del registro, así como la adición de algunos nuevos registros. Estos registros tienen 64 bits de ancho y se denominan (barra diagonal utilizada para mostrar el nombre del registro alternativo): RAX / r0, RBX / r3, RCX / r1, RDX / r2, RBP / r5, RSI / r6, RDI / r7, RSP / r4 , R8, R9, R10, R11, R12, R13, R14, R15. 

@@ -30,6 +30,5 @@ Existen 4 banderas y son las siguientes:
 
 ![image](https://user-images.githubusercontent.com/99301599/166501357-789bb8df-6c11-4ab4-9dbc-f50564dd2b66.png)
 
-   # Naturaleza de los registros
-![EjemploRegistros](https://user-images.githubusercontent.com/99301599/166502818-51a3b9f8-842a-46d0-8573-c8be2d85b29c.PNG)
+
 
